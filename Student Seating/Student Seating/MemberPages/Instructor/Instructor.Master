@@ -1,0 +1,105 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Instructor.master.cs" Inherits="Student_Seating.MemberPages.Instructor.Instructor" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+<style>
+      @import url('https://fonts.googleapis.com/css?family=Francois+One&display=swap');
+        *{
+            box-sizing: border-box;
+             margin: 0;
+            padding: 0;
+            font-family: 'Francois One', sans-serif;
+        }
+        html{
+            height: 100%;
+        }
+        body{
+            min-height: 100%;
+            display: flex;
+            flex-direction: column;
+        }
+        .logo {
+            width: 124px;
+            height: 119px;
+            float: left;
+            margin: 10px;
+        }
+        header{
+            background-color: #4991DC;
+        }
+        .container{
+            width: 80%;
+            margin: 0 auto;
+        }
+        nav{
+            float: right;
+        }
+        header::after{
+            content:'';
+            display: table;
+            clear: both;
+        }
+        nav ul{
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+        nav li{
+            display: inline-block;
+            margin-left: 40px;
+            padding-top: 50px;
+        }
+        nav a{
+            text-decoration: none;
+            color: white;
+            font-size: 15px;
+            text-transform: uppercase;
+            padding: 10px;
+        }
+        nav a:hover{
+            color: #0A4A7D;
+        }
+        footer{
+            background-color: #0A4A7D;
+            color: white;
+            margin-top: auto;
+            text-align: center;
+            padding: 20px;
+        }
+      
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+     <header>
+        <div class="container">
+            <img src="/Resources/IUL-logo.png" class="logo"/>
+            <nav>
+                <ul>
+                    <li><a class="Student" href="Student.aspx">Student</a></li>
+                    <li><a class="Courses" href="Courses.aspx">Courses</a></li>
+                    <li><a class="Exam" href="Exam.aspx">Exam</a></li>
+                    <li><a class="Hall" href="Hall.aspx">Hall</a></li>
+                    <li><a class="Registration" href="Registration.aspx">Registration</a></li>
+                    <li><a class="Seating" href="Seating.aspx">Seating</a></li>
+                    <li>
+                        <asp:Button ID="lgt_btn" runat="server" Text="Logout" OnClick="Button1_Click" Height="30px" Width="100px" />
+                    </li>
+                </ul>
+            </nav>
+        </div>
+         
+    </header>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </form>
+    <footer>
+        © 2020 Internet Programming class IUL <br /> Khalil Adib
+    </footer>
+</body>
+</html>

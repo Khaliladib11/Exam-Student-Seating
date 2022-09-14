@@ -1,0 +1,66 @@
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\roslyn\csc.exe
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\roslyn\System.Collections.Immutable.dll
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\roslyn\vbc.exe
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\roslyn\VBCSCompiler.exe
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\roslyn\VBCSCompiler.exe.config
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\Student Seating.dll.config
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\Student Seating.dll
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\Student Seating.pdb
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\Microsoft.AI.Web.dll
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\Microsoft.AI.WindowsServer.dll
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\Microsoft.ApplicationInsights.dll
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\Microsoft.AI.Web.xml
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\Microsoft.AI.WindowsServer.xml
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\Microsoft.ApplicationInsights.xml
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\obj\Debug\Student Seating.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\obj\Debug\Student Seating.dll
+c:\users\user\documents\visual studio 2015\Student Seating\Student Seating\Student Seating\obj\Debug\Student Seating.pdb
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\Student Seating.dll.config
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\Student Seating.dll
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\Student Seating.pdb
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\Microsoft.AI.Web.dll
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\Microsoft.AI.Web.xml
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\obj\Debug\Student Seating.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\obj\Debug\Student Seating.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\obj\Debug\Student Seating.csproj.CopyComplete
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\obj\Debug\Student Seating.dll
+C:\Users\USER\Desktop\IUL\Students Seating Project\Final Raport\Student Seating\Student Seating\obj\Debug\Student Seating.pdb
